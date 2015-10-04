@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clima</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo_oops_ventana">Oops sucedió error</string>
+    <string name="mensaje_ventana">Ha ocurrido un error ante la ejecución</string>
+    <string name="mensaje_boton">Ok</string>
+</resources>
